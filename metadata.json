@@ -1,0 +1,6 @@
+{
+  "name": "Reserva Auto",
+  "description": "Aplicación para validar credenciales y reservar automáticamente menú normal o de dieta en segundo plano con notificaciones de estado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
